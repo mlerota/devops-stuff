@@ -1,17 +1,3 @@
-/* i really want this to be global */
-
-@-moz-document
-    regexp(".*argocd.*"),
-    domain("argocd.local"),
-    domain("workflows.local")
-{
-
-/*
- * Name:    Henanigans for ArgoCD
- * Author:  Alex Braun
- * Version: 0.3.7
- */
-
   .Toastify__toast--default,
 .login__saml-separator > span,
 .tags-input__tag,
